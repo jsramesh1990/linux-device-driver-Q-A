@@ -1,5 +1,5 @@
 
-# Linux Device Driver Examples: The Complete Guide
+# Linux Device Driver Q&A : The Complete Guide
 
 ## 1. Introduction & Definitions
 A **Linux Device Driver** is a software component that allows the operating system (kernel) to interact with hardware devices. It provides an abstraction layer so software can control hardware without knowing exact electrical or register-level details .
