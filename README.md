@@ -136,7 +136,7 @@ mydevice@20 {
 
 ---
 
-# 🐞 Debugging Techniques
+#  Debugging Techniques
 
 ## printk()
 
@@ -158,7 +158,7 @@ echo function > /sys/kernel/debug/tracing/current_tracer
 
 ---
 
-# 🎯 Interview Questions
+#  Interview Questions
 
 ## Difference between insmod and modprobe?
 
@@ -179,7 +179,7 @@ Interrupt handlers run in atomic context and cannot sleep.
 
 ---
 
-# 💻 Supported Platforms
+#  Supported Platforms
 
 | Platform | Hardware Description |
 |----------|----------------------|
@@ -189,27 +189,3 @@ Interrupt handlers run in atomic context and cannot sleep.
 
 ---
 
-# 📘 References
-
-- Linux Kernel Documentation
-- Linux Device Drivers (LDD3)
-- Device Tree Specification
-- Kernel Documentation: `Documentation/driver-api/`
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-You can contribute by:
-- Adding new drivers
-- Improving documentation
-- Fixing bugs
-- Adding interview questions
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
